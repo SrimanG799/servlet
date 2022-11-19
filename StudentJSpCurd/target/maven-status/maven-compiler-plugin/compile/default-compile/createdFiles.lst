@@ -1,0 +1,6 @@
+com\servlice\ServiceCl.class
+com\servlice\ServiceImpli.class
+com\dao\DaoImpli.class
+com\model\Student.class
+com\dao\DaoCla.class
+com\util\UtilConnect.class
